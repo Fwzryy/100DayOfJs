@@ -7,7 +7,7 @@ Welcome to my 100 Days of JavaScript Projects repository! In this challenge, I'l
 1. Introduction
 2. Projects
 3. Getting Started
-4. Contributing
+4. Tech Stack
 5. License
 
 ## Introduction
